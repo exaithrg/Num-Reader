@@ -115,6 +115,17 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="Rgnral.cpp" />
+    <ClCompile Include="Rinfi.cpp" />
+    <ClCompile Include="Rordi.cpp" />
+    <ClCompile Include="Rpre.cpp" />
+    <ClCompile Include="Rsci.cpp" />
+    <ClCompile Include="Rsipre.cpp" />
+    <ClCompile Include="Rspeak.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Nbasic.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
